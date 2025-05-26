@@ -35,4 +35,3 @@
 | **Frontend** | Servido diretamente pelo ESP8266 via mDNS (ex: `http://esp.local`) | Página HTML de login e cadastro de usuários                           |
 | **Backend**  | Node.js rodando no seu PC (ex: `http://192.168.1.100:3000`)        | Recebe requisições do ESP, acessa a API do Supabase e retorna resposta |
 | **Auth**     | Supabase                                                            | Realiza o cadastro, login e verificação do usuário                     |
-s
