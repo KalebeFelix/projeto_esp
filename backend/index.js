@@ -9,7 +9,7 @@ const PORT = 3000;
 
 // Substitua com suas credenciais reais do Supabase
 const SUPABASE_URL = 'SUA_URL';
-const SUPABASE_KEY = 'SUA_KEY'
+const SUPABASE_KEY = 'SUA_KEY';
 const supabase = createClient(SUPABASE_URL, SUPABASE_KEY);
 
 // Middlewares
